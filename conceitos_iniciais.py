@@ -96,4 +96,4 @@ print(f'{valor:.2f}')'''
 nome = 'Erika'
 print(f'Olá, {nome}!')
 
-print('Olá {}, você tem {} anos'.format('Erika',25))
+'''print('Olá {}, você tem {} anos'.format('Erika',25))'''
